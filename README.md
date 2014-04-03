@@ -1,7 +1,7 @@
 gallery-event-hammer
 ====================
 
-This module lets you leverage all gesture events from [HammerJS](eightmedia.github.io/hammer.js/).
+This module lets you leverage all gesture events from [HammerJS](http://eightmedia.github.io/hammer.js/) in YUI 3.
 
 ## Usage
 
